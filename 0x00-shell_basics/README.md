@@ -1,0 +1,1 @@
+this directory will contain all scripts(files containing the commands)
